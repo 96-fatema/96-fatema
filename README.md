@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-Hi, I’m @96fatema
+Hi, I’m @96-fatema
 
-eyes I’m interested in ...
+ I’m interested in ...
 
-seedling I’m currently learning C++
+ I’m currently learning C++
 
-revolving_hearts I’m looking to collaborate on ...
+ I’m looking to collaborate on ...
 
-mailbox How to reach me siratsamara@gmail.com
+ How to reach me siratsamara@gmail.com
